@@ -1,6 +1,5 @@
-# com_arnaway_rocketspeed
-گوشی سرعت راکتی 
-
+# com.ddhway.doctordarohamrah
+دکتر و داروخانه همراه هوشمند
 ## Privacy Policy
 
 MasterAppDeveloper built the TraficMap app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
