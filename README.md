@@ -1,8 +1,8 @@
-# com.ddhway.doctordarohamrah
-دکتر و داروخانه همراه هوشمند
+# ir.finger.arna.lock
+قفل اثر انگشتی،لمسی
 ## Privacy Policy
 
-MasterAppDeveloper built the TraficMap app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
+MasterAppDeveloper built the ir.finger.arna.lock app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
@@ -79,13 +79,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
                     under 13 has provided me with personal information, I immediately delete this from
                     our servers. If you are a parent or guardian and you are aware that your child has provided us with personal
                     information, please contact me so that I will be able to do necessary actions.
-                    
-**about app Permissions**
 
-This application uses memory access to store and retrieve tests  ,GET_ACCOUNTS access is only for sending program errors to your email so that after feedback, feedback will be notified to your email and will not be used at all.
-این برنامه از دسترسی حافظه برای ذخیره و بازیابی تست ها ها استفاده می کند،   دسترسی 
-GET_ACCOUNTS
-فقط برای ارسال خطاهای برنامه  به ایمیل شما می باشد، تا بعد از بررسی خطا بازخورد آن به ایمیل شما اطلاع رسانی شود و هیچ گونه استفاده دیگری ندارد.
 
 **Changes to This Privacy Policy**
 
