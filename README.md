@@ -15,6 +15,10 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
                     at TraficMap unless otherwise defined in this Privacy Policy.
 
+**Librarys Privacy Policy in app**
+
+* [cheshmak Services](https://www.cheshmak.me/privacy-policy)
+
 **Information Collection and Use**
 
 For a better experience, while using our Service, I may require you to provide us with certain
